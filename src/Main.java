@@ -18,6 +18,7 @@ public class Main {
         }
         while (number == 1);
         scanner.close();
+        System.out.println("Hi");
     }
 
 }
